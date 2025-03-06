@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\FuncionesLocales\bin\Debug\net8.0\FuncionesLocales.exe
+C:\Users\eutreror\source\repos\FuncionesLocales\bin\Debug\net8.0\FuncionesLocales.deps.json
+C:\Users\eutreror\source\repos\FuncionesLocales\bin\Debug\net8.0\FuncionesLocales.runtimeconfig.json
+C:\Users\eutreror\source\repos\FuncionesLocales\bin\Debug\net8.0\FuncionesLocales.dll
+C:\Users\eutreror\source\repos\FuncionesLocales\bin\Debug\net8.0\FuncionesLocales.pdb
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.dll
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\refint\FuncionesLocales.dll
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.pdb
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\FuncionesLocales.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\FuncionesLocales\obj\Debug\net8.0\ref\FuncionesLocales.dll

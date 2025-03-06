@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\if_else\bin\Debug\net8.0\if_else.exe
+C:\Users\eutreror\source\repos\if_else\bin\Debug\net8.0\if_else.deps.json
+C:\Users\eutreror\source\repos\if_else\bin\Debug\net8.0\if_else.runtimeconfig.json
+C:\Users\eutreror\source\repos\if_else\bin\Debug\net8.0\if_else.dll
+C:\Users\eutreror\source\repos\if_else\bin\Debug\net8.0\if_else.pdb
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.dll
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\refint\if_else.dll
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.pdb
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\if_else.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\if_else\obj\Debug\net8.0\ref\if_else.dll

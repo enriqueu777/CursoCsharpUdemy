@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\bin\Debug\net8.0\EjemploFuncionLocal.exe
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\bin\Debug\net8.0\EjemploFuncionLocal.deps.json
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\bin\Debug\net8.0\EjemploFuncionLocal.runtimeconfig.json
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\bin\Debug\net8.0\EjemploFuncionLocal.dll
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\bin\Debug\net8.0\EjemploFuncionLocal.pdb
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.dll
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\refint\EjemploFuncionLocal.dll
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.pdb
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\EjemploFuncionLocal.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\EjemploFuncionLocal\obj\Debug\net8.0\ref\EjemploFuncionLocal.dll

@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\array2\bin\Debug\net8.0\array2.exe
+C:\Users\eutreror\source\repos\array2\bin\Debug\net8.0\array2.deps.json
+C:\Users\eutreror\source\repos\array2\bin\Debug\net8.0\array2.runtimeconfig.json
+C:\Users\eutreror\source\repos\array2\bin\Debug\net8.0\array2.dll
+C:\Users\eutreror\source\repos\array2\bin\Debug\net8.0\array2.pdb
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.dll
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\refint\array2.dll
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.pdb
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\array2.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\array2\obj\Debug\net8.0\ref\array2.dll

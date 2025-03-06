@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "leyendo_argumentos/1.0.0": {
+        "runtime": {
+          "leyendo_argumentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leyendo_argumentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

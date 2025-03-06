@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\leyendo_argumentos\bin\Debug\net8.0\leyendo_argumentos.exe
+C:\Users\eutreror\source\repos\leyendo_argumentos\bin\Debug\net8.0\leyendo_argumentos.deps.json
+C:\Users\eutreror\source\repos\leyendo_argumentos\bin\Debug\net8.0\leyendo_argumentos.runtimeconfig.json
+C:\Users\eutreror\source\repos\leyendo_argumentos\bin\Debug\net8.0\leyendo_argumentos.dll
+C:\Users\eutreror\source\repos\leyendo_argumentos\bin\Debug\net8.0\leyendo_argumentos.pdb
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.dll
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\refint\leyendo_argumentos.dll
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.pdb
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\leyendo_argumentos.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\leyendo_argumentos\obj\Debug\net8.0\ref\leyendo_argumentos.dll

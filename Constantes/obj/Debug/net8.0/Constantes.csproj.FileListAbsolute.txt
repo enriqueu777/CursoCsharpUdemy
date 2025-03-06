@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\Constantes\bin\Debug\net8.0\Constantes.exe
+C:\Users\eutreror\source\repos\Constantes\bin\Debug\net8.0\Constantes.deps.json
+C:\Users\eutreror\source\repos\Constantes\bin\Debug\net8.0\Constantes.runtimeconfig.json
+C:\Users\eutreror\source\repos\Constantes\bin\Debug\net8.0\Constantes.dll
+C:\Users\eutreror\source\repos\Constantes\bin\Debug\net8.0\Constantes.pdb
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.dll
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\refint\Constantes.dll
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.pdb
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\Constantes.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\Constantes\obj\Debug\net8.0\ref\Constantes.dll

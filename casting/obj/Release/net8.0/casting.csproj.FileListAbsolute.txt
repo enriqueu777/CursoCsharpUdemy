@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\casting\bin\Release\net8.0\casting.exe
+C:\Users\eutreror\source\repos\casting\bin\Release\net8.0\casting.deps.json
+C:\Users\eutreror\source\repos\casting\bin\Release\net8.0\casting.runtimeconfig.json
+C:\Users\eutreror\source\repos\casting\bin\Release\net8.0\casting.dll
+C:\Users\eutreror\source\repos\casting\bin\Release\net8.0\casting.pdb
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.dll
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\refint\casting.dll
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.pdb
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\casting.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\casting\obj\Release\net8.0\ref\casting.dll

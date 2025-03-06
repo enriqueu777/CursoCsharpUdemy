@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\pasovalorReferencia\bin\Debug\net8.0\pasovalorReferencia.exe
+C:\Users\eutreror\source\repos\pasovalorReferencia\bin\Debug\net8.0\pasovalorReferencia.deps.json
+C:\Users\eutreror\source\repos\pasovalorReferencia\bin\Debug\net8.0\pasovalorReferencia.runtimeconfig.json
+C:\Users\eutreror\source\repos\pasovalorReferencia\bin\Debug\net8.0\pasovalorReferencia.dll
+C:\Users\eutreror\source\repos\pasovalorReferencia\bin\Debug\net8.0\pasovalorReferencia.pdb
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.dll
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\refint\pasovalorReferencia.dll
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.pdb
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\pasovalorReferencia.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\pasovalorReferencia\obj\Debug\net8.0\ref\pasovalorReferencia.dll

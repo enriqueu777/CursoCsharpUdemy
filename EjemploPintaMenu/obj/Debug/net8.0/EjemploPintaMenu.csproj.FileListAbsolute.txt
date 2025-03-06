@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\EjemploPintaMenu\bin\Debug\net8.0\EjemploPintaMenu.exe
+C:\Users\eutreror\source\repos\EjemploPintaMenu\bin\Debug\net8.0\EjemploPintaMenu.deps.json
+C:\Users\eutreror\source\repos\EjemploPintaMenu\bin\Debug\net8.0\EjemploPintaMenu.runtimeconfig.json
+C:\Users\eutreror\source\repos\EjemploPintaMenu\bin\Debug\net8.0\EjemploPintaMenu.dll
+C:\Users\eutreror\source\repos\EjemploPintaMenu\bin\Debug\net8.0\EjemploPintaMenu.pdb
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.dll
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\refint\EjemploPintaMenu.dll
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.pdb
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\EjemploPintaMenu.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\EjemploPintaMenu\obj\Debug\net8.0\ref\EjemploPintaMenu.dll

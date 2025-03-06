@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\EjerciciosModulo1\bin\Debug\net8.0\EjerciciosModulo1.exe
+C:\Users\eutreror\source\repos\EjerciciosModulo1\bin\Debug\net8.0\EjerciciosModulo1.deps.json
+C:\Users\eutreror\source\repos\EjerciciosModulo1\bin\Debug\net8.0\EjerciciosModulo1.runtimeconfig.json
+C:\Users\eutreror\source\repos\EjerciciosModulo1\bin\Debug\net8.0\EjerciciosModulo1.dll
+C:\Users\eutreror\source\repos\EjerciciosModulo1\bin\Debug\net8.0\EjerciciosModulo1.pdb
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.dll
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\refint\EjerciciosModulo1.dll
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.pdb
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\EjerciciosModulo1.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\EjerciciosModulo1\obj\Debug\net8.0\ref\EjerciciosModulo1.dll

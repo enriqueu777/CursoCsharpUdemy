@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "leyendo_argumentos": {
+      "commandName": "Project",
+      "commandLineArgs": "Enrique, \"Hola mundo\", true"
+    }
+  }
+}

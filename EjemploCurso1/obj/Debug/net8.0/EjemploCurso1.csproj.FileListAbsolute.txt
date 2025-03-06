@@ -1,0 +1,14 @@
+C:\Users\eutreror\source\repos\EjemploCurso1\bin\Debug\net8.0\EjemploCurso1.exe
+C:\Users\eutreror\source\repos\EjemploCurso1\bin\Debug\net8.0\EjemploCurso1.deps.json
+C:\Users\eutreror\source\repos\EjemploCurso1\bin\Debug\net8.0\EjemploCurso1.runtimeconfig.json
+C:\Users\eutreror\source\repos\EjemploCurso1\bin\Debug\net8.0\EjemploCurso1.dll
+C:\Users\eutreror\source\repos\EjemploCurso1\bin\Debug\net8.0\EjemploCurso1.pdb
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.dll
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\refint\EjemploCurso1.dll
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.pdb
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\EjemploCurso1.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\EjemploCurso1\obj\Debug\net8.0\ref\EjemploCurso1.dll
