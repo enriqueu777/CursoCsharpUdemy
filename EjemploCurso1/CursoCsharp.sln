@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploFuncionLocal", "..\E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploPintaMenu", "..\EjemploPintaMenu\EjemploPintaMenu.csproj", "{47D3BA49-664A-46F0-9E50-3F550F830D15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioCalculadora", "..\EjercicioCalculadora\EjercicioCalculadora.csproj", "{74AE1DE0-FE86-4046-B15A-899535991042}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{47D3BA49-664A-46F0-9E50-3F550F830D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47D3BA49-664A-46F0-9E50-3F550F830D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D3BA49-664A-46F0-9E50-3F550F830D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AE1DE0-FE86-4046-B15A-899535991042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AE1DE0-FE86-4046-B15A-899535991042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AE1DE0-FE86-4046-B15A-899535991042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AE1DE0-FE86-4046-B15A-899535991042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,5 +150,6 @@ Global
 		{25AF86F3-8AC5-42F7-B7B3-3E2C646AD51C} = {542016EF-2897-40C2-9B69-A41CE722B57B}
 		{CD9E530B-8F0C-4145-B5FD-A365B3FC6047} = {542016EF-2897-40C2-9B69-A41CE722B57B}
 		{47D3BA49-664A-46F0-9E50-3F550F830D15} = {542016EF-2897-40C2-9B69-A41CE722B57B}
+		{74AE1DE0-FE86-4046-B15A-899535991042} = {542016EF-2897-40C2-9B69-A41CE722B57B}
 	EndGlobalSection
 EndGlobal

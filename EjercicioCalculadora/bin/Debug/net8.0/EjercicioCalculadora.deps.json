@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EjercicioCalculadora/1.0.0": {
+        "runtime": {
+          "EjercicioCalculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

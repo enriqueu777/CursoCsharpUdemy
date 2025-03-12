@@ -1,0 +1,15 @@
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\bin\Debug\net8.0\EjercicioCalculadora.exe
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\bin\Debug\net8.0\EjercicioCalculadora.deps.json
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\bin\Debug\net8.0\EjercicioCalculadora.runtimeconfig.json
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\bin\Debug\net8.0\EjercicioCalculadora.dll
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\bin\Debug\net8.0\EjercicioCalculadora.pdb
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.AssemblyInfoInputs.cache
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.AssemblyInfo.cs
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.sourcelink.json
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.dll
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\refint\EjercicioCalculadora.dll
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.pdb
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\EjercicioCalculadora.genruntimeconfig.cache
+C:\Users\enriq\Source\Repos\CursoCsharpUdemy\EjercicioCalculadora\obj\Debug\net8.0\ref\EjercicioCalculadora.dll
