@@ -6,22 +6,23 @@ internal class Program
     {
         
 
-        PintaMenu();
+        var opcion = PintaMenu();
+        EjecutaOpcion(opcion);
 
-
-      
+ 
+        
     }
 
 
 
-    public static void PintaMenu()
+    public static string PintaMenu()
     {
 
         Console.WriteLine("*** 1 Suma***");
-        Console.WriteLine("*** 1 Resta***");
-        Console.WriteLine("*** 1 Multiplicacion***");
-        Console.WriteLine("*** 1 Resta***");
-        Console.ReadLine();
+        Console.WriteLine("*** 2 Resta***");
+        Console.WriteLine("*** 3 Multiplicacion***");
+        Console.WriteLine("*** 4 Division***");
+        return Console.ReadLine();
 
 
     }
@@ -30,13 +31,58 @@ internal class Program
 
     public static void EjecutaOpcion(string opcion)
     {
+        var numero1 = 0;
+        var numero2 = 0;
+        
         switch (opcion)
         {
             case "1":
 
-                Console.WriteLine("Introduce dos  numeros");
+                Console.WriteLine("Introduce un numero");
+                numero1= Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Introduce otro numero");
+                numero2 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine(Suma(numero1, numero2));
+                
 
 
+                break;
+            case "2":
+
+                Console.WriteLine("Introduce un numero");
+                numero1 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Introduce otro numero");
+                numero2 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine(Resta(numero1, numero2));
+
+
+                break;
+            case "3":
+
+                Console.WriteLine("Introduce un numero");
+                numero1 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Introduce otro numero");
+                numero2 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine(Multiplicacion(numero1, numero2));
+
+
+                break;
+            case "4":
+
+                Console.WriteLine("Introduce un numero");
+                numero1 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Introduce otro numero");
+                numero2 = Int32.Parse(Console.ReadLine());
+                Console.WriteLine(Division(numero1, numero2));
+
+
+                break;
+            default:
+
+                Console.WriteLine("La opcion no es correcta");
+
+
+                break;
 
         }
        

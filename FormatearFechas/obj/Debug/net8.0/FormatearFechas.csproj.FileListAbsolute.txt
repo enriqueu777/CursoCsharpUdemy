@@ -1,0 +1,15 @@
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\bin\Debug\net8.0\FormatearFechas.exe
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\bin\Debug\net8.0\FormatearFechas.deps.json
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\bin\Debug\net8.0\FormatearFechas.runtimeconfig.json
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\bin\Debug\net8.0\FormatearFechas.dll
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\bin\Debug\net8.0\FormatearFechas.pdb
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.AssemblyInfoInputs.cache
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.AssemblyInfo.cs
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.csproj.CoreCompileInputs.cache
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.sourcelink.json
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.dll
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\refint\FormatearFechas.dll
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.pdb
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\FormatearFechas.genruntimeconfig.cache
+C:\Users\monic\source\repos\CursoCsharpUdemy\FormatearFechas\obj\Debug\net8.0\ref\FormatearFechas.dll
